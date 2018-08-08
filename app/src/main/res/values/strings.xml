@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JuzBot</string>
+    <string name="enter_your_command_here">enter your command here</string>
+    <string name="todo">TODO</string>
+</resources>
